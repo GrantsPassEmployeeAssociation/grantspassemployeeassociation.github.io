@@ -338,3 +338,5 @@ Members on an authorized non-paid leave of absence from their employment may be 
 ### Section D<a id="exhibit-a-section-d"></a>
 
 Members who fail to pay their dues or assessments within 10 days of the due date shall be notified of such delinquency by the Secretary or Treasurer of the Association and will be automatically suspended and lose their good standing if payment is not made within sixty (60) days following such notification.  Delinquent and suspended members are not entitled to voice or vote in the Association.  Fair-share members of the Association shall not be entitled to voice or vote in the Association.
+
+![GPEA logo](../content/gpea_logo.png)

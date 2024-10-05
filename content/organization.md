@@ -91,3 +91,4 @@ In order to conduct official business, meetings require a quorum equal to 20% of
 * [Bargaining Agreement Units and Personnel Rules](https://www.grantspassoregon.gov/187/Bargaining-Unit-Agreements-Personnel-Rul)
   * [Personnel Rules, Regulations and Policies](https://www.grantspassoregon.gov/DocumentCenter/View/128/Personnel-Rules-Regulations--Policies-PDF)
 
+![GPEA logo](../content/gpea_logo.png)

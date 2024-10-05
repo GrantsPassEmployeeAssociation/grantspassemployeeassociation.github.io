@@ -150,3 +150,5 @@ The rules contained in the current edition of Robert's Rules of Order, Newly Rev
 ## ARTICLE 9 - AMENDMENTS<a id="article-9"></a>
 
 This Constitution may be amended, revised, or otherwise changed by a majority vote of the members voting on such proposed change and such change shall take effect only upon written approval of the International President.  Proposed amendments to this Constitution must be made at a regular or special meeting of the local union and read and voted on at a subsequent meting of the local union, adequate and proper notice having been given to the membership prior to the date of which the vote is taken.  A written copy of the proposed amendment shall be furnished to every eligible voter at the meeting at which the vote is taken.
+
+![GPEA logo](../content/gpea_logo.png)

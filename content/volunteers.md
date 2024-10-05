@@ -68,3 +68,5 @@ James has two degrees in Economics and Political Science that compliment his Mas
 
 \
 **Vacant - Treasurer**
+
+![GPEA logo](../content/gpea_logo.png)
