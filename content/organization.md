@@ -64,7 +64,7 @@ There are two forms of official meetings in which all members are free to partic
 * General meetings - Regularly scheduled meetings for conducting official GPEA business.
 * Special meetings - Called irregularly by the President, Board or 20% of the membership.
 
-The Executive Board may hold closed meetings for discussion of GPEA affairs, but may not conduct official business
+The Executive Board may hold closed meetings for discussion of GPEA affairs, but may not conduct official business in closed meetings.
 
 In order to conduct official business, meetings require a quorum equal to 20% of all members.
 
