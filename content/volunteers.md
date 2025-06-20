@@ -51,18 +51,9 @@ Department: Fleet\
 Phone: <a href=tel:+15414506011>(541) 450-6011</a>\
 Email: <a href=mailto:danderson@grantspassoregon.gov>danderson@grantspassoregon.gov</a>
 
----
-
-<img src=/content/jamesconway_portrait.jpg alt="James Conway Portrait" width="200">
-
-\
-**James Conway - Secretary**\
-Employee Position: Economic Development Specialist\
-Department: Community Development\
-Phone: <a href=tel:+15414506071>(541) 450-6071</a>\
-Email: <a href=mailto:jconway@grantspassoregon.gov>jconway@grantspassoregon.gov</a>
-
-James has two degrees in Economics and Political Science that compliment his Master’s in Public Administration. James takes public service seriously and someday would like to be a City Manager after an extensive career of being an Economic Development Practitioner. He has a cat named Spaghetti who he rescued 3 years ago. He is passionate about Baseball where his first experience was going to Old Yankee Stadium in 1989. He loves strategy board games and is always up for a trip to the coast.
+Donna has served on the GPEA leadership for 18 years, and 2025 marks the end of her final term of service with us.  
+We are grateful for the depth of experience and institutional wisdom that she has brought to the team.  
+Donna will be a tough act to follow!
 
 ---
 
@@ -75,6 +66,10 @@ Department: Community Development\
 Phone: <a href=tel:+15414506064>(541) 450-6064</a>\
 Email: <a href=mailto:lmiddleton@grantspassoregon.gov>lmiddleton@grantspassoregon.gov</a>
 
-Born in Texas, I lived all over the country growing up mainly in Florida, Arizona, and Texas. After many years in the hospitality industry and culinary training, I found Urban Planning and studied as a non-traditional student at Texas State University in San Marcos, Texas. I love being part of the community development process and constantly learning and developing skills and my knowledge base. I firmly believe in collaboration and teamwork, and I am happy to serve the public interest. I am looking forward to serving on this Board and working with all of you!
+Born in Texas, I lived all over the country growing up mainly in Florida, Arizona, and Texas.
+After many years in the hospitality industry and culinary training, I found Urban Planning and studied as a non-traditional student at Texas State University in San Marcos, Texas.
+I love being part of the community development process and constantly learning and developing skills and my knowledge base.
+I firmly believe in collaboration and teamwork, and I am happy to serve the public interest.
+I am looking forward to serving on this Board and working with all of you!
 
 ![GPEA logo](../content/gpea_logo.png)
