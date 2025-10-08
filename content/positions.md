@@ -97,6 +97,9 @@ An employee that purchases and uses their own tools as a normal work requirement
 #### City-Provided Tool Policy
 
 The City purchases and maintains the tools used for fleet service. Employees (e.g. Mechanic/Lead Mechanic) will not use personal tools at the workplace.
+
+### Boot Allowance
+
 Employees required to wear steel-toed boots as a safety precaution when performing their duties (e.g. Mechanic/Lead Mechanic) will receive a boot allowance of $120 per year in 2025 dollars, adjusting for CPI-U to the current year.
 
 ## Holidays<a id="holidays"></a>
