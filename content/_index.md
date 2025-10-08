@@ -5,11 +5,9 @@ title = "Grants Pass Employee Association Homepage"
 # toc = true
 +++
 
-# Welcome to the GPEA!
+# Welcome to the GPEA
 
-The Grants Pass Employee Association represents employee interests as a collective bargaining unit with the City of Grants Pass. 
-
-This site is still UNDER CONSTRUCTION.
+The Grants Pass Employee Association represents employee interests as a collective bargaining unit with the City of Grants Pass.
 
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">

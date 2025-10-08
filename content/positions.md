@@ -1,6 +1,7 @@
 +++
 title = "Bargaining Positions 2025"
 date = "2025-10-07"
+toc = true
 
 [taxonomies]
 categories = ["Organization"]
@@ -139,3 +140,5 @@ Management will provide a safe parking area sufficient to accommodate normal ope
 - Reasonable walking distance (<650ft).
 - Monitored by CCTV camera.
 - Security presence in the half hour before opening and the hour after closing.
+
+![GPEA logo](../content/gpea_logo.png)
