@@ -30,6 +30,7 @@ navbar_items = [
     { url = "$BASE_URL/news", name = "News" },
     { url = "$BASE_URL/events", name = "Events" },
     { url = "$BASE_URL/organization", name = "Organization" },
+    { url = "$BASE_URL/positions", name = "Positions" },
     { url = "$BASE_URL/volunteers", name = "Volunteers" },
     # { url = "$BASE_URL/categories", name = "Categories" },
     # { url = "$BASE_URL/tags", name = "Tags" },
