@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title> - Meeting Reports</title>
+      <link>https://grantspassemployeeassociation.github.io</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://grantspassemployeeassociation.github.io/tags/meeting-reports/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Report on Insurance Meeting #3</title>
+          <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://grantspassemployeeassociation.github.io/news/events-20241120/</link>
+          <guid>https://grantspassemployeeassociation.github.io/news/events-20241120/</guid>
+          <description xml:base="https://grantspassemployeeassociation.github.io/news/events-20241120/">&lt;p&gt;Hello Members,&lt;&#x2F;p&gt;
+&lt;p&gt;GPEA representatives (Donna and I) attended the final insurance meeting with City management on November 12 at 2pm.  We discussed an alternative option to Willamette Dental Group offered by Pacific Source.  The additional cost was more than we were prepared to pay, so we elected not to move forward with the alternative option at this time.  We will continue to offer Willamette Dental Group as an option.&lt;&#x2F;p&gt;
+&lt;p&gt;If you have any questions about the process, please reach out to me.&lt;&#x2F;p&gt;
+&lt;p&gt;Erik Rose&lt;br &#x2F;&gt;
+GPEA President&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
